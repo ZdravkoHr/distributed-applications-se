@@ -1,0 +1,6 @@
+@Zdravko_Distributed_HostAddress = http://localhost:5277
+
+GET {{Zdravko_Distributed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
